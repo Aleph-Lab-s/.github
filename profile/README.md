@@ -30,7 +30,62 @@ The purpose is simple:
 
 turn meaningful ideas into reality.
 
+APC
 
+Execution Continuity & Security Infrastructure
+
+APC is a domain-agnostic execution continuity and security layer designed to connect identity, authorization, intent, execution, state, integrity, and proof across systems.
+
+APC is being engineered to work with existing infrastructure rather than require organizations to replace the systems they already operate.
+
+The goal is simple:
+
+«Make execution across connected systems verifiable, authorized, continuous, and accountable.»
+
+APC is not limited to AI. Its architecture is intended for any environment where an authorized actor, application, service, agent, or machine needs to cause an action in another system and where the integrity and continuity of that execution matter.
+
+Core direction
+
+Identity
+   ↓
+Authorization
+   ↓
+Intent
+   ↓
+Validation
+   ↓
+Execution
+   ↓
+State / Continuity
+   ↓
+Integrity
+   ↓
+Proof
+
+Potential environments
+
+- AI agents and agentic systems
+- APIs and distributed applications
+- Enterprise software
+- Automation and integrations
+- Identity and security infrastructure
+- Machine-to-machine systems
+- IoT and autonomous systems
+- Other systems requiring trusted execution across boundaries
+
+Current status
+
+APC's core architecture has been frozen following engineering research and external technical feedback. The current implementation is being completed against that architecture.
+
+We are now building an early-access group for engineers and organizations interested in following APC, evaluating the technology, and potentially integrating it when the implementation is ready.
+
+Interested in APC?
+
+"Join the APC Early-Access List" (https://forms.gle/akHybwEbyghryMQG6)
+
+The early-access form helps us understand who is interested and what environments APC may eventually need to support.
+
+«APC is early-stage. The architecture is being implemented now, and early access is intended for technically interested people who want to follow the project from this stage.»
 
 What We Build
 
