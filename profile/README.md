@@ -30,7 +30,8 @@ The purpose is simple:
 
 turn meaningful ideas into reality.
 
-find us at alephapc.com
+find us at www.alephapc.com
+
 APC
 
 Execution Continuity & Security Infrastructure
