@@ -1,0 +1,9 @@
+name: Bug Report
+description: File a bug report for APC
+body:
+  - type: textarea
+    attributes:
+      label: Bug Description
+      placeholder: Describe the problem clearly
+    validations:
+      required: true

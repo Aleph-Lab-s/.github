@@ -1,0 +1,9 @@
+name: Feature Request
+description: Propose an idea or enhancement for APC
+body:
+  - type: textarea
+    attributes:
+      label: Proposal
+      placeholder: Describe the feature you would like to see
+    validations:
+      required: true
